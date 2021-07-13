@@ -2,12 +2,12 @@
 
 You can use this app to create a checklist of works you need to get done.
 
-## `Things app can do`
+### `Things app can do`
 
 create a new todo
 delete a todo
 
-## `View Development`
+### `View Development`
 
 https://codewithbharat.github.io/todo-react/
 
