@@ -4,8 +4,8 @@ You can use this app to create a checklist of works you need to get done.
 
 ### `Things app can do`
 
-create a new todo <br>
-delete a todo
+Create a new todo <br>
+Delete a todo
 
 ### `View Development`
 
